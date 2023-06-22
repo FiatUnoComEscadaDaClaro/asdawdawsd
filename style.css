@@ -1,0 +1,70 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&family=Fredericka+the+Great&family=Open+Sans:wght@300&family=Poltawski+Nowy:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #B4B4B4;
+    margin: 0%;
+}
+.cabecalho-imagem{
+   float: left;
+    width: 20%;
+    max-width: 100px;
+}
+.principal{
+    color: #F2F2F2;
+    display: inline-block;
+}
+header{
+    align-items: center;
+    background-color: black;
+}
+ul{
+    background-color: #D9D9D9;
+    text-align: right;
+}
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    
+    margin-right: 70px;
+}
+a:hover{
+    background-color: black;
+    color: white;
+}
+main {
+    background-color: #F2F2F2;
+    padding: 10px;
+    margin:20px 30px ;
+}
+article{
+    background-color: #D9D9D9;
+  
+}
+h1{
+   font-family: "Open-Sans";
+}
+aside{
+    background-color:  #B4B4B4;
+}
+img {
+    margin-left: 10px;
+}
+section{
+    color: white;
+    background-color: black;
+}
+section:hover{
+    font-size: 17px;
+    text-decoration: underline;
+}
+h2 {
+    margin-left: 5px;
+}
+p {
+    margin-left: 5px;
+}
+iframe{
+    margin: 20px
+}
